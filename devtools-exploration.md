@@ -43,7 +43,7 @@ When hovering over links, the text color changes and an underline appears
 - section
 - footer
 
-<h3> 2. Fprm Element and Its Inputs</h3>
+<h3> 2. Form Element and Its Inputs</h3>
 The form is wrapped inside a <form> element and contains:
 
 - input type="text"
@@ -52,5 +52,4 @@ The form is wrapped inside a <form> element and contains:
 - input type="hidden"
 
 <h3>Screensot of Elements Panel</h3>
-
 
