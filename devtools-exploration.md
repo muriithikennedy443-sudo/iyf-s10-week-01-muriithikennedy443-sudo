@@ -1,6 +1,6 @@
 <h1>DevTools Exploration</h1>
 
-<h2> Website 1 - example.com</h2>
+<h2> Website 1 - https://example.com</h2>
 
 <h3> 2. HTML Tags Used</h3>
 
@@ -19,7 +19,7 @@ Example Domain
 <h3> 3. Number of Headings</h3>
 There is 1 heading 
 
-<h2> Website 2 - developer.mozilla.prg</h2>
+<h2> Website 2 - https://developer.mozilla.prg</h2>
 
 <h3> 1. Navigation Menu</h3>
 The navigation menu is wrapped inside a <nav> element.
@@ -33,7 +33,7 @@ The search bar is inside a <form> element and contains:
 <h3> 3. Hover Effect</h3>
 When hovering over links, the text color changes and an underline appears
 
-<h2> Website 3 - github.com</h2>
+<h2> Website 3 - https://github.com</h2>
 
 <h3> 1. Five HTML Elements</h3>
 
