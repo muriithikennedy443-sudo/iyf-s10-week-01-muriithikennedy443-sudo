@@ -27,7 +27,7 @@ The navigation menu is wrapped inside a <nav> element.
 <h3> 2. Search Bar Structure</h3>
 The search bar is inside a <form> element and contains:
 
-- input (tyype="search"
+- input (tyype="search")
 - button
 
 <h3> 3. Hover Effect</h3>
@@ -50,6 +50,5 @@ The form is wrapped inside a <form> element and contains:
 - input type-"password"
 - input type="submit"
 - input type="hidden"
-
 
 
