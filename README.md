@@ -32,4 +32,3 @@ I learned how to create web pages, organize files and structure content usinng s
 <h2> Challenges Faced</h2>
 I was unable to input the details and push the content while in VS code. I edited my details in GitHub instead since it was an easier option to me.
 
-<h2> Screenshots</h2>
