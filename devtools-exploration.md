@@ -51,5 +51,5 @@ The form is wrapped inside a <form> element and contains:
 - input type="submit"
 - input type="hidden"
 
-<h3>Screensot of Elements Panel</h3>
+
 
