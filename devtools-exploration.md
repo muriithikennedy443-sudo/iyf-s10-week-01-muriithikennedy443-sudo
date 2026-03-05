@@ -51,4 +51,10 @@ The form is wrapped inside a <form> element and contains:
 - input type="submit"
 - input type="hidden"
 
+<h3> 3. Screenshot of the Element Panel</h3>
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e301d4df-3731-4b5a-9579-85776051819b" />
+
+
+
+
 
