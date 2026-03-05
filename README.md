@@ -32,3 +32,7 @@ I learned how to structure a website using HTML, organize project files properly
 
 <h2> Challenges Faced</h2>
 I was unable to push my file from VS Code and I preferred to edit the file using GitHub since it is quite easier.
+
+<h2> Screenshot of VS Code with extensions installed</h2>
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/934850ac-0831-49d3-b56b-9ef8dcfffa40" />
+
